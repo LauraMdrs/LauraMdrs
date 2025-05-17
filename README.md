@@ -4,7 +4,7 @@
 
 ##
 
-<div style="text-align: left; padding: 20px 0;">
+<div width:30%;display:inline-block;">
   <ul>
     <li>🎓 Cursando Análise e desenvolvimento de sistema - UNICID</li>
     <li>👩‍💻 Desenvolvedora Fullstrack</li>
