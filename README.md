@@ -8,7 +8,7 @@
   <ul>
     <li>🎓 Cursando Análise e desenvolvimento de sistema - UNICID</li>
     <li>👩‍💻 Desenvolvedora Fullstrack</li>
-    <li>🎂 20 anos - 2005</li>
+    <li>🎂 20 anos - 2005</li> 
   </ul>
 </div>
 
@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="30" />
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="40" alt="git"/>
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img width="30" />
 </div>
 
