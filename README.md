@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ffaac6&size=25&center=false&vCenter=true&width=1000&lines=Welcome!;I'm+Laura+de+Medeiros;👩‍💻👋+:%29" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffaac6&size=25&center=false&vCenter=true&width=1000&lines=Welcome!+👋;I'm+Laura+de+Medeiros+👩‍💻+:%29" alt="Typing SVG">
 </a>
 
 ##
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=ffaac6" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&hide_border=false&border_color=ffaac6&title_color=ffaac6&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ###
