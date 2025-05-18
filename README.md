@@ -7,7 +7,7 @@
 <div>
   <ul>
     <li>🎓 Cursando Análise e desenvolvimento de sistema - UNICID</li>
-    <li>👩‍💻 Desenvolvedora Fullstrack</li>
+    <li>👩‍💻 Desenvolvedora full stack</li>
     <li>🎂 20 anos - 2005</li> 
   </ul>
 </div>
