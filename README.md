@@ -28,5 +28,5 @@
 #
 
 <div>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&hide_border=false&border_color=ffaac6&title_color=ffaac6&text_color=ffaac6&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMd&layout=compact&hide_border=false&border_color=ffaac6&title_color=ffaac6&text_color=ffaac6&bg_color=0d1117" />
 </div>
