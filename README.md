@@ -4,7 +4,7 @@
 
 <div>
   <ul>
-    <li>🎓 Cursando Análise e desenvolvimento de sistema - UNICID</li>
+    <li>🎓 Estudante de Análise e desenvolvimento de sistema - UNICID</li>
     <li>👩‍💻 Desenvolvedora full stack</li> 
   </ul>
 </div>
