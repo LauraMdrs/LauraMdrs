@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Em transição de carreira para tecnologia, com experiência anterior em RH e área administrativa. Atualmente cursando Análise e desenvolvimento de sistemas na UNICID, com foco em desenvolvimento front-end.
+  Em transição de carreira para tecnologia, com experiência anterior em RH e área administrativa. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento front-end.
 </p>
 
 <p align="left">
