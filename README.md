@@ -19,6 +19,6 @@
 </p>
 
 <p align="left">
-  <a href = "mailto:lauramdrsa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:lauramdrsa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
   <a href="https://www.linkedin.com/in/laurademedeirosalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
