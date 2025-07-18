@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML5, CSS5, JavaScript, Python
+  🦄 Linguagens: HTML5, CSS3, JavaScript e Python.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git/GitHub, VsCode, Canva e Figma
+  💼 Ferramentas: Git/GitHub, VsCode, Canva e Figma.
 </p>
 
 <p align="left">
@@ -22,5 +22,5 @@
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:lauramdrsa@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurademedeirosalves" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurademedeirosalves/" alt="LinkedIn"/></a>
 </p>
