@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="220px" max-width="220px" width="220px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="260px" max-width="220px" width="220px" align="right">
 <br>
 
 <p align="left"> 
