@@ -7,8 +7,8 @@
       alt="GitHub Stats" 
       min-width="350px" 
       max-width="350px" 
-      width="300px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=donut-vertical&langs_count=5&&size_weight=0.5&count_weight=0.5&disable_animations=true&locale=pt-br&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
+      width="290px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=donut-vertical&langs_count=5&font_size=60px&size_weight=0.5&count_weight=0.5&disable_animations=true&locale=pt-br&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
   />
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="260px" max-width="220px" width="220px" align="right" margin="20rem">
@@ -26,7 +26,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -34,7 +34,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -42,7 +42,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -50,7 +50,7 @@
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -58,7 +58,7 @@
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -66,7 +66,7 @@
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -74,16 +74,15 @@
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 </p>
 
-<br>
-<br>
+  <br>
   
-<p align="left">
+<br> <p align="left">
   Buscando aprimorar habilidades técnicas por meio de projetos práticos. Interessada em desenvolver interfaces acessíveis, funcionais e bem estruturadas. Abertura para colaborações e oportunidades de aprendizado. 🚀
 </p>
 
