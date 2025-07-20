@@ -77,9 +77,9 @@
 <img 
       align="right" 
       alt="GitHub Stats" 
-      min-width="260px" 
-      max-width="260px" 
-      width="260px"
+      min-width="300px" 
+      max-width="300px" 
+      width="300px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&border_color=0d1117&title_color=320c84,711ce6&text_color=FFFFFF&bg_color=0d1117" 
   />
 <p align="left">
