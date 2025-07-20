@@ -2,13 +2,14 @@
 
 **`Desenvolvedora Front-end`**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="260px" max-width="260px" width="260px" align="right">
+<br>
 
 <p align="left"> 
   Em transição de carreira para tecnologia, com experiência anterior em RH e área administrativa. Atualmente cursando Análise e Desenvolvimento de Sistemas na UNICID, com foco em desenvolvimento front-end.
 </p>
 
-<p align="left">
+<p align="left" style="font_color=320c84">
   🦄 Linguagens:
   <br>
   
@@ -73,18 +74,18 @@
 <br>
 <br>
 
+<img 
+      align="right" 
+      alt="GitHub Stats" 
+      min-width="260px" 
+      max-width="260px" 
+      width="260px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&border_color=0d1117&title_color=320c84,711ce6&text_color=FFFFFF&bg_color=0d1117" 
+  />
 <p align="left">
   Buscando aprimorar habilidades técnicas por meio de projetos práticos. Interessada em desenvolver interfaces acessíveis, funcionais e bem estruturadas. Abertura para colaborações e oportunidades de aprendizado. 🚀
 </p>
 
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      min-width="400px" 
-      max-width="400px" 
-      width="400px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact)"
-  />
 
 <p align="left">
   <a href = "mailto:lauramdrsa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
