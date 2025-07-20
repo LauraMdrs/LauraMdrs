@@ -80,8 +80,9 @@
       min-width="300px" 
       max-width="300px" 
       width="300px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&border_color=0d1117&title_color=320c84,711ce6&text_color=FFFFFF&bg_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
   />
+  
 <p align="left">
   Buscando aprimorar habilidades técnicas por meio de projetos práticos. Interessada em desenvolver interfaces acessíveis, funcionais e bem estruturadas. Abertura para colaborações e oportunidades de aprendizado. 🚀
 </p>
