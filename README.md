@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="260px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="260px" max-width="260px" width="260px" align="right">
 <br>
 
 <p align="left"> 
@@ -77,6 +77,8 @@
 <img 
       align="right" 
       alt="GitHub Stats" 
+      min-width="350px" 
+      max-width="350px" 
       width="300px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMdrs&layout=compact&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
   />
