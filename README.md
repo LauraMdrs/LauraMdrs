@@ -6,7 +6,7 @@
       min-width="350px" 
       max-width="350px" 
       width="290px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMedeiross&layout=donut-vertical&langs_count=5&font_size=60px&size_weight=0.5&count_weight=0.5&disable_animations=true&locale=pt-br&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMedeiros&layout=donut-vertical&langs_count=5&font_size=60px&size_weight=0.5&count_weight=0.5&disable_animations=true&locale=pt-br&border_color=0d1117&title_color=711ce6&text_color=FFFFFF&bg_color=0d1117" 
   />
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="260px" max-width="220px" width="220px" align="right" margin="20rem">
